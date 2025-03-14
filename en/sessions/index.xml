@@ -30,16 +30,16 @@
     </item>
     <item>
       <title>Conférence Thématique I</title>
-      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/</link>
+      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/</guid>
+      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</guid>
       <description>&lt;p&gt;Un exposé sur les enjeux de la durabilité en génie électrique (titre précis et résumé à venir)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conférence Thématique II</title>
-      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/</link>
+      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/</guid>
+      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</guid>
       <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
     </item>
     <item>
@@ -55,6 +55,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>/en/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session II</title>
+      <link>/en/sessions/poster-session-ii-729572/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
     </item>
     <item>
       <title>Présentation Bulle d&#39;Air</title>
@@ -78,20 +92,6 @@
       <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentations Flash - Poster Session I</title>
-      <link>/en/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/</guid>
-      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Présentations Flash - Poster Session II</title>
-      <link>/en/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/</guid>
-      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Remise Prix Poster</title>
       <link>/en/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,7 +103,7 @@
       <link>/en/sessions/table-ronde-729573/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/sessions/table-ronde-729573/</guid>
-      <description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Illustration, Personal branding, Consumer. Ha!&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

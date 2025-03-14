@@ -9,13 +9,6 @@
     <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/en/code-of-conduct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/code-of-conduct/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading heading--2&#34; id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&lt;p&gt;A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).&lt;/p&gt;&#xA;&lt;p&gt;This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>/en/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/imprint/</guid>
@@ -58,16 +51,16 @@
     </item>
     <item>
       <title>Conférence Thématique I</title>
-      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/</link>
+      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/</guid>
+      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</guid>
       <description>&lt;p&gt;Un exposé sur les enjeux de la durabilité en génie électrique (titre précis et résumé à venir)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conférence Thématique II</title>
-      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/</link>
+      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/</guid>
+      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</guid>
       <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
     </item>
     <item>
@@ -92,6 +85,27 @@
       <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Poster Instructions</title>
+      <link>/en/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>/en/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session II</title>
+      <link>/en/sessions/poster-session-ii-729572/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Présentation Bulle d&#39;Air</title>
       <link>/en/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -113,20 +127,6 @@
       <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentations Flash - Poster Session I</title>
-      <link>/en/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/</guid>
-      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Présentations Flash - Poster Session II</title>
-      <link>/en/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/</guid>
-      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Remise Prix Poster</title>
       <link>/en/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,7 +145,7 @@
       <link>/en/sessions/table-ronde-729573/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/sessions/table-ronde-729573/</guid>
-      <description>&lt;p&gt;Usually, you would find a session description here. But, this is not a real session submission, so let just say we&amp;rsquo;ll talk about Illustration, Personal branding, Consumer. Ha!&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

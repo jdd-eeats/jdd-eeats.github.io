@@ -14,8 +14,6 @@
                 href="/en/"
                 />
   </url><url>
-    <loc>/en/code-of-conduct/</loc>
-  </url><url>
     <loc>/en/imprint/</loc>
   </url><url>
     <loc>/en/privacy-policy/</loc>
@@ -84,30 +82,30 @@
                 href="/en/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/"
                 />
   </url><url>
-    <loc>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/</loc>
+    <loc>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/"
+                href="/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729574/"
+                href="/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/"
                 />
   </url><url>
-    <loc>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/</loc>
+    <loc>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/"
+                href="/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729574/"
+                href="/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/"
                 />
   </url><url>
     <loc>/en/categories/flash/</loc>
@@ -173,6 +171,45 @@
                 href="/en/categories/poster/"
                 />
   </url><url>
+    <loc>/en/poster/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/poster/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/poster/"
+                />
+  </url><url>
+    <loc>/en/sessions/poster-session-i-729574/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/sessions/poster-session-i-729574/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/sessions/poster-session-i-729574/"
+                />
+  </url><url>
+    <loc>/en/sessions/poster-session-ii-729572/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/sessions/poster-session-ii-729572/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/sessions/poster-session-ii-729572/"
+                />
+  </url><url>
     <loc>/en/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -210,32 +247,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/"
-                />
-  </url><url>
-    <loc>/en/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/sessions/pr%c3%a9sentations-flash-poster-session-i-729574/"
-                />
-  </url><url>
-    <loc>/en/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/sessions/pr%c3%a9sentations-flash-poster-session-ii-729574/"
                 />
   </url><url>
     <loc>/en/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
