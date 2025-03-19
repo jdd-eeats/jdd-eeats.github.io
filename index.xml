@@ -2,157 +2,458 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>https://jdd-eeats.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdd-eeats.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/code-of-conduct.de/</link>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/code-of-conduct.de/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;verhaltenskodex&#34;&gt;Verhaltenskodex&lt;/h1&gt;&#xA;&lt;h2 class=&#34;heading heading--2&#34; id=&#34;zielsetzung&#34;&gt;Zielsetzung&lt;/h2&gt;&lt;p&gt;Alle Konferenzen und Gruppen, die sich auf diesen Verhaltenskodex beziehen, haben es sich als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung, Herkunft, Religion (oder deren Nichtvorhandensein) sowie gesellschaftlichem und wirtschaftlichem Status.&lt;/p&gt;&#xA;&lt;p&gt;Dieser Verhaltenskodex umreißt unsere Erwartungen an alle Beteiligten unserer Community, sowie die Konsequenzen für inakzeptables Verhalten.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/imprint.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/imprint.de/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;+++ DIESE SEITE IST NUR EIN MUSTER +++&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Angaben gemäß § 5 DDG&lt;/p&gt;&#xA;&lt;p&gt;Max Muster&lt;br&gt;&#xA;Musterweg&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vertreten durch:&lt;/strong&gt;&lt;br&gt;&#xA;Max Muster&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xA;Telefon: 01234-789456&lt;br&gt;&#xA;Fax: 1234-56789&lt;br&gt;&#xA;E-Mail: &lt;a&#xA;  class=&#34;link&#34;&#xA;  href=&#34;mailto:max@muster.de&#34;rel=&#34;external&#34;&gt;max@muster.de&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Umsatzsteuer-ID:&lt;/strong&gt;&lt;br&gt;&#xA;Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wirtschafts-ID:&lt;/strong&gt;&lt;br&gt;&#xA;Musterwirtschaftsid&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Aufsichtsbehörde:&lt;/strong&gt;&lt;br&gt;&#xA;Musteraufsicht Musterstadt&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftungsausschluss:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftung für Inhalte&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/privacy-policy.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/privacy-policy.de/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;+++ DIESE SEITE IST NUR EIN MUSTER +++&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;I. Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;h3 class=&#34;heading heading--3&#34; id=&#34;1verantwortlicher-und-datenschutzbeauftragter&#34;&gt;&lt;strong&gt;1. Verantwortlicher und Datenschutzbeauftragter&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Verantwortlich für diese Website ist&lt;/p&gt;&#xA;&lt;p&gt;[Name, Postadresse, E-Mail-Adresse des Verantwortlichen].&lt;/p&gt;&#xA;&lt;p&gt;Den Datenschutzbeauftragten erreichen Sie per E-Mail unter&lt;/p&gt;&#xA;&lt;p&gt;[E-Mail-Adresse des Datenschutzbeauftragten]&lt;/p&gt;&#xA;&lt;p&gt;oder über die Adresse&lt;/p&gt;&#xA;&lt;p&gt;[ggf. auch die Postadresse des Datenschutzbeauftragten].&lt;/p&gt;&#xA;&#xA;&lt;h3 class=&#34;heading heading--3&#34; id=&#34;2-daten-die-für-die-bereitstellung-der-website-und-die-erstellung-der-protokolldateien-verarbeitet-werden&#34;&gt;&lt;strong&gt;2. Daten, die für die Bereitstellung der Website und die Erstellung der Protokolldateien verarbeitet werden&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 class=&#34;heading heading--4&#34; id=&#34;a-welche-daten-werden-für-welchen-zweck-verarbeitet&#34;&gt;&lt;strong&gt;a. Welche Daten werden für welchen Zweck verarbeitet?&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;Bei jedem Zugriff auf Inhalte der Website werden vorübergehend Daten gespeichert, die möglicherweise eine Identifizierung zulassen. Die folgenden Daten werden hierbei erhoben:&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/about/</guid>
+      <description></description>
     </item>
     <item>
       <title>About Us</title>
-      <link>/about/</link>
+      <link>https://jdd-eeats.github.io/english/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://jdd-eeats.github.io/english/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/french/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/speakers/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Accueil</title>
-      <link>/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accueil</title>
+      <link>https://jdd-eeats.github.io/french/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accueil</title>
+      <link>https://jdd-eeats.github.io/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
       <description>&lt;p&gt;Hello&lt;/p&gt;</description>
     </item>
     <item>
       <title>Buffet</title>
-      <link>/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buffet</title>
+      <link>https://jdd-eeats.github.io/french/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buffet</title>
+      <link>https://jdd-eeats.github.io/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description></description>
     </item>
     <item>
       <title>Clôture de la JDD</title>
-      <link>/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description></description>
     </item>
     <item>
-      <title>Conférence Thématique I</title>
-      <link>/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</link>
+      <title>Clôture de la JDD</title>
+      <link>https://jdd-eeats.github.io/french/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</guid>
-      <description>&lt;p&gt;Un exposé sur les enjeux de la durabilité en génie électrique (titre précis et résumé à venir)&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/french/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clôture de la JDD</title>
+      <link>https://jdd-eeats.github.io/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
     </item>
     <item>
       <title>Conférence Thématique II</title>
-      <link>/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
       <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Location</title>
-      <link>/location/</link>
+      <title>Conférence Thématique II</title>
+      <link>https://jdd-eeats.github.io/french/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/location/</guid>
+      <guid>https://jdd-eeats.github.io/french/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conférence Thématique II</title>
+      <link>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/english/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot Ing, PhD, est le CEO et co-fondateur de la société DiamFab. Après des études d’Ingénieur en électronique à Polytech’ Grenoble, il a obtenu son doctorat en nanoélectronique et nanotechnologie à l&amp;rsquo;Université de Grenoble en 2013. Au CEA et au CNRS, ses travaux de recherche se sont majoritairement portés sur les semi-conducteurs ultra wide band gap, et plus spécifiquement sur le développement de composants d&amp;rsquo;électroniques de puissance en diamant. Il s&amp;rsquo;est particulièrement concentré sur l&amp;rsquo;optimisation des performances des composants en lien direct avec les couches épitaxiées de diamant pendant un post-doc au G2ELab. Fort de cette expertise, il a travaillé à partir de 2017 à la valorisation des travaux de recherche issus du CNRS/Institut Néel qui lui ont permis en 2019 de fonder la start-up DIAMFAB qu’il dirige depuis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/french/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot Ing, PhD, est le CEO et co-fondateur de la société DiamFab. Après des études d’Ingénieur en électronique à Polytech’ Grenoble, il a obtenu son doctorat en nanoélectronique et nanotechnologie à l&amp;rsquo;Université de Grenoble en 2013. Au CEA et au CNRS, ses travaux de recherche se sont majoritairement portés sur les semi-conducteurs ultra wide band gap, et plus spécifiquement sur le développement de composants d&amp;rsquo;électroniques de puissance en diamant. Il s&amp;rsquo;est particulièrement concentré sur l&amp;rsquo;optimisation des performances des composants en lien direct avec les couches épitaxiées de diamant pendant un post-doc au G2ELab. Fort de cette expertise, il a travaillé à partir de 2017 à la valorisation des travaux de recherche issus du CNRS/Institut Néel qui lui ont permis en 2019 de fonder la start-up DIAMFAB qu’il dirige depuis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot Ing, PhD, est le CEO et co-fondateur de la société DiamFab. Après des études d’Ingénieur en électronique à Polytech’ Grenoble, il a obtenu son doctorat en nanoélectronique et nanotechnologie à l&amp;rsquo;Université de Grenoble en 2013. Au CEA et au CNRS, ses travaux de recherche se sont majoritairement portés sur les semi-conducteurs ultra wide band gap, et plus spécifiquement sur le développement de composants d&amp;rsquo;électroniques de puissance en diamant. Il s&amp;rsquo;est particulièrement concentré sur l&amp;rsquo;optimisation des performances des composants en lien direct avec les couches épitaxiées de diamant pendant un post-doc au G2ELab. Fort de cette expertise, il a travaillé à partir de 2017 à la valorisation des travaux de recherche issus du CNRS/Institut Néel qui lui ont permis en 2019 de fonder la start-up DIAMFAB qu’il dirige depuis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/english/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier est chercheur CNRS au Laboratoire de Génie Electrique de Grenoble (G2Elab). Après plus de 20 années de recherche dans divers domaines de l’électronique de puissance (semi-conducteurs, packaging 3D, drivers intégrés, convertisseurs multicellulaires, …), ses activités portent actuellement sur l’identification des conditions de la soutenabilité de la technologie électronique de puissance. Il est également référent RSE pour son laboratoire, et au niveau national il co-anime des groupes de travail sur l’électronique plus soutenable. Tout récemment, il s’est impliqué dans l’animation du Groupe Réflexion du GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/french/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier est chercheur CNRS au Laboratoire de Génie Electrique de Grenoble (G2Elab). Après plus de 20 années de recherche dans divers domaines de l’électronique de puissance (semi-conducteurs, packaging 3D, drivers intégrés, convertisseurs multicellulaires, …), ses activités portent actuellement sur l’identification des conditions de la soutenabilité de la technologie électronique de puissance. Il est également référent RSE pour son laboratoire, et au niveau national il co-anime des groupes de travail sur l’électronique plus soutenable. Tout récemment, il s’est impliqué dans l’animation du Groupe Réflexion du GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier est chercheur CNRS au Laboratoire de Génie Electrique de Grenoble (G2Elab). Après plus de 20 années de recherche dans divers domaines de l’électronique de puissance (semi-conducteurs, packaging 3D, drivers intégrés, convertisseurs multicellulaires, …), ses activités portent actuellement sur l’identification des conditions de la soutenabilité de la technologie électronique de puissance. Il est également référent RSE pour son laboratoire, et au niveau national il co-anime des groupes de travail sur l’électronique plus soutenable. Tout récemment, il s’est impliqué dans l’animation du Groupe Réflexion du GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/english/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/french/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/speakers/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/location/</guid>
       <description></description>
     </item>
     <item>
       <title>Moment Récréatif et Prix Quiz</title>
-      <link>/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moment Récréatif et Prix Quiz</title>
+      <link>https://jdd-eeats.github.io/french/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moment Récréatif et Prix Quiz</title>
+      <link>https://jdd-eeats.github.io/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description></description>
     </item>
     <item>
       <title>Pause-café</title>
-      <link>/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pause-café</title>
+      <link>https://jdd-eeats.github.io/french/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pause-café</title>
+      <link>https://jdd-eeats.github.io/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poster Instructions</title>
-      <link>/poster/</link>
+      <link>https://jdd-eeats.github.io/english/poster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/poster/</guid>
+      <guid>https://jdd-eeats.github.io/english/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/french/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/speakers/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/poster/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster Session I</title>
-      <link>/sessions/poster-session-i-729574/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/poster-session-i-729574/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/poster-session-i-729574/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>https://jdd-eeats.github.io/french/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster Session II</title>
-      <link>/sessions/poster-session-ii-729572/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/poster-session-ii-729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/poster-session-ii-729572/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/poster-session-ii-729572/</guid>
       <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentation Bulle d&#39;Air</title>
-      <link>/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <title>Poster Session II</title>
+      <link>https://jdd-eeats.github.io/french/sessions/poster-session-ii-729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/french/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poster Session II</title>
+      <link>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
+      <link>https://jdd-eeats.github.io/english/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
+      <link>https://jdd-eeats.github.io/french/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
+      <link>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation Bulle d&#39;Air</title>
+      <link>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation Bulle d&#39;Air</title>
+      <link>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation Bulle d&#39;Air</title>
+      <link>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
       <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Présentation de la journée</title>
-      <link>/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation de la journée</title>
+      <link>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation de la journée</title>
+      <link>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
       <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
     </item>
     <item>
       <title>Présentation du Réseau PhD Alumni</title>
-      <link>/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation du Réseau PhD Alumni</title>
+      <link>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation du Réseau PhD Alumni</title>
+      <link>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
       <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Remise Prix Poster</title>
-      <link>/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Remise Prix Poster</title>
+      <link>https://jdd-eeats.github.io/french/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Remise Prix Poster</title>
+      <link>https://jdd-eeats.github.io/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description></description>
     </item>
     <item>
       <title>Sponsors &amp; Partners</title>
-      <link>/sponsors/</link>
+      <link>https://jdd-eeats.github.io/english/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sponsors/</guid>
+      <guid>https://jdd-eeats.github.io/english/sponsors/</guid>
       <description></description>
     </item>
     <item>
-      <title>Table ronde</title>
-      <link>/sessions/table-ronde-729573/</link>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/french/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/table-ronde-729573/</guid>
+      <guid>https://jdd-eeats.github.io/french/sponsors/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/speakers/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/sponsors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sponsors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table Ronde</title>
+      <link>https://jdd-eeats.github.io/english/sessions/table-ronde-729573/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/sessions/table-ronde-729573/</guid>
+      <description>&lt;p&gt;Et après la thèse? Découvrez les divers parcours d&amp;rsquo;insertion professionnelle des intervenants qui étaient à votre place il y&amp;rsquo;a quelques années.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table Ronde</title>
+      <link>https://jdd-eeats.github.io/french/sessions/table-ronde-729573/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/table-ronde-729573/</guid>
+      <description>&lt;p&gt;Et après la thèse? Découvrez les divers parcours d&amp;rsquo;insertion professionnelle des intervenants qui étaient à votre place il y&amp;rsquo;a quelques années.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table Ronde</title>
+      <link>https://jdd-eeats.github.io/sessions/table-ronde-729573/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/table-ronde-729573/</guid>
+      <description>&lt;p&gt;Et après la thèse? Découvrez les divers parcours d&amp;rsquo;insertion professionnelle des intervenants qui étaient à votre place il y&amp;rsquo;a quelques années.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

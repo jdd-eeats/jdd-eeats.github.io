@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on </title>
+    <link>https://jdd-eeats.github.io/speakers/</link>
+    <description>Recent content in Speakers on </description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://jdd-eeats.github.io/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/speakers/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot Ing, PhD, est le CEO et co-fondateur de la société DiamFab. Après des études d’Ingénieur en électronique à Polytech’ Grenoble, il a obtenu son doctorat en nanoélectronique et nanotechnologie à l&amp;rsquo;Université de Grenoble en 2013. Au CEA et au CNRS, ses travaux de recherche se sont majoritairement portés sur les semi-conducteurs ultra wide band gap, et plus spécifiquement sur le développement de composants d&amp;rsquo;électroniques de puissance en diamant. Il s&amp;rsquo;est particulièrement concentré sur l&amp;rsquo;optimisation des performances des composants en lien direct avec les couches épitaxiées de diamant pendant un post-doc au G2ELab. Fort de cette expertise, il a travaillé à partir de 2017 à la valorisation des travaux de recherche issus du CNRS/Institut Néel qui lui ont permis en 2019 de fonder la start-up DIAMFAB qu’il dirige depuis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier est chercheur CNRS au Laboratoire de Génie Electrique de Grenoble (G2Elab). Après plus de 20 années de recherche dans divers domaines de l’électronique de puissance (semi-conducteurs, packaging 3D, drivers intégrés, convertisseurs multicellulaires, …), ses activités portent actuellement sur l’identification des conditions de la soutenabilité de la technologie électronique de puissance. Il est également référent RSE pour son laboratoire, et au niveau national il co-anime des groupes de travail sur l’électronique plus soutenable. Tout récemment, il s’est impliqué dans l’animation du Groupe Réflexion du GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/speakers/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/speakers/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/speakers/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/speakers/sponsors/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

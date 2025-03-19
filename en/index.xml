@@ -2,150 +2,479 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/en/</link>
+    <link>https://jdd-eeats.github.io/en/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdd-eeats.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/en/imprint/</link>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/imprint/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;imprint&#34;&gt;Imprint&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;+++ THIS IS JUST A SAMPLE +++&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Disclosures according to § 5 TMG&lt;/p&gt;&#xA;&lt;p&gt;Max Muster&lt;br&gt;&#xA;Musterweg&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;&#xA;&lt;p&gt;Editorially responsible&lt;/p&gt;&#xA;&lt;p&gt;Max Muster&lt;br&gt;&#xA;Musterweg&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/en/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/privacy-policy/</guid>
-      <description>&lt;h1 class=&#34;heading heading--1&#34; id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;+++ THIS IS JUST A SAMPLE +++&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Privacy Policy of Company Name&lt;/p&gt;&#xA;&lt;p&gt;Company Name operates the Website Name website, which provides the SERVICE.&lt;/p&gt;&#xA;&lt;p&gt;This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Website Name website.&lt;/p&gt;&#xA;&lt;p&gt;If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/en/about/</guid>
+      <description></description>
     </item>
     <item>
       <title>About Us</title>
-      <link>/en/about/</link>
+      <link>https://jdd-eeats.github.io/en/english/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/about/</guid>
+      <guid>https://jdd-eeats.github.io/en/english/about/</guid>
       <description></description>
     </item>
     <item>
-      <title>Accueil</title>
-      <link>/en/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/en/french/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
-      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Buffet</title>
-      <link>/en/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/en/french/about/</guid>
       <description></description>
     </item>
     <item>
-      <title>Clôture de la JDD</title>
-      <link>/en/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <title>About Us</title>
+      <link>https://jdd-eeats.github.io/en/speakers/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/en/speakers/about/</guid>
       <description></description>
     </item>
     <item>
-      <title>Conférence Thématique I</title>
-      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</link>
+      <title>Bulle d&#39;Air Presentation</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/bulle-dair-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</guid>
-      <description>&lt;p&gt;Un exposé sur les enjeux de la durabilité en génie électrique (titre précis et résumé à venir)&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/bulle-dair-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Conférence Thématique II</title>
-      <link>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</link>
+      <title>Bulle d&#39;Air Presentation</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/bulle-dair-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</guid>
-      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/bulle-dair-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Location</title>
-      <link>/en/location/</link>
+      <title>Bulle d&#39;Air Presentation</title>
+      <link>https://jdd-eeats.github.io/en/sessions/bulle-dair-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/location/</guid>
-      <description></description>
+      <guid>https://jdd-eeats.github.io/en/sessions/bulle-dair-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Moment Récréatif et Prix Quiz</title>
-      <link>/en/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <title>Coffee Break</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/coffee-break-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pause-café</title>
-      <link>/en/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/coffee-break-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Poster Instructions</title>
-      <link>/en/poster/</link>
+      <title>Coffee Break</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/coffee-break-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/poster/</guid>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/coffee-break-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coffee Break</title>
+      <link>https://jdd-eeats.github.io/en/sessions/coffee-break-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/coffee-break-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Steps Towards more Sustainable Power Electronics</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/first-steps-towards-more-sustainable-power-electronics-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/first-steps-towards-more-sustainable-power-electronics-729575/</guid>
+      <description>&lt;p&gt;The presentation traces the evolution of the speaker&amp;rsquo;s scientific journey in response to environmental and climate challenges related to power electronics technology. It covers the transition from deconstructing a myth to exploring scientific directions compatible with environmental and societal issues, leading to the first steps in the field of more sustainable power electronics. Changes in the ways of defining and conducting research activities will be discussed, with these points to be further explored in a discussion with the participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Steps Towards more Sustainable Power Electronics</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/first-steps-towards-more-sustainable-power-electronics-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/first-steps-towards-more-sustainable-power-electronics-729575/</guid>
+      <description>&lt;p&gt;The presentation traces the evolution of the speaker&amp;rsquo;s scientific journey in response to environmental and climate challenges related to power electronics technology. It covers the transition from deconstructing a myth to exploring scientific directions compatible with environmental and societal issues, leading to the first steps in the field of more sustainable power electronics. Changes in the ways of defining and conducting research activities will be discussed, with these points to be further explored in a discussion with the participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Steps Towards more Sustainable Power Electronics</title>
+      <link>https://jdd-eeats.github.io/en/sessions/first-steps-towards-more-sustainable-power-electronics-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/first-steps-towards-more-sustainable-power-electronics-729575/</guid>
+      <description>&lt;p&gt;The presentation traces the evolution of the speaker&amp;rsquo;s scientific journey in response to environmental and climate challenges related to power electronics technology. It covers the transition from deconstructing a myth to exploring scientific directions compatible with environmental and societal issues, leading to the first steps in the field of more sustainable power electronics. Changes in the ways of defining and conducting research activities will be discussed, with these points to be further explored in a discussion with the participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/en/english/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot, Ing., PhD, is the CEO and co-founder of DiamFab. After completing his engineering studies in Electronics at Polytech’ Grenoble, he earned his PhD in Nanoelectronics and Nanotechnology from the University of Grenoble in 2013. At the CEA and CNRS, his research primarily focused on ultra-wide band gap semiconductors, specifically the development of power electronics components using diamond. He particularly concentrated on optimizing the performance of these components in direct relation to epitaxial diamond layers during a post-doctoral research position at G2ELab. Leveraging this expertise, he began working in 2017 to commercialize the research outcomes from CNRS/Institut Néel, which led to the founding of the startup DIAMFAB in 2019, which he has led since its inception.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/en/french/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot, Ing., PhD, is the CEO and co-founder of DiamFab. After completing his engineering studies in Electronics at Polytech’ Grenoble, he earned his PhD in Nanoelectronics and Nanotechnology from the University of Grenoble in 2013. At the CEA and CNRS, his research primarily focused on ultra-wide band gap semiconductors, specifically the development of power electronics components using diamond. He particularly concentrated on optimizing the performance of these components in direct relation to epitaxial diamond layers during a post-doctoral research position at G2ELab. Leveraging this expertise, he began working in 2017 to commercialize the research outcomes from CNRS/Institut Néel, which led to the founding of the startup DIAMFAB in 2019, which he has led since its inception.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gauthier CHICOT</title>
+      <link>https://jdd-eeats.github.io/en/speakers/gauthier-chicot-000-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/speakers/gauthier-chicot-000-01/</guid>
+      <description>&lt;p&gt;Gauthier Chicot, Ing., PhD, is the CEO and co-founder of DiamFab. After completing his engineering studies in Electronics at Polytech’ Grenoble, he earned his PhD in Nanoelectronics and Nanotechnology from the University of Grenoble in 2013. At the CEA and CNRS, his research primarily focused on ultra-wide band gap semiconductors, specifically the development of power electronics components using diamond. He particularly concentrated on optimizing the performance of these components in direct relation to epitaxial diamond layers during a post-doctoral research position at G2ELab. Leveraging this expertise, he began working in 2017 to commercialize the research outcomes from CNRS/Institut Néel, which led to the founding of the startup DIAMFAB in 2019, which he has led since its inception.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to get hired as a PhD Graduate</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/how-to-get-hired-as-a-phd-graduate-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/how-to-get-hired-as-a-phd-graduate-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to get hired as a PhD Graduate</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/how-to-get-hired-as-a-phd-graduate-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/how-to-get-hired-as-a-phd-graduate-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to get hired as a PhD Graduate</title>
+      <link>https://jdd-eeats.github.io/en/sessions/how-to-get-hired-as-a-phd-graduate-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/how-to-get-hired-as-a-phd-graduate-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/en/english/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier is a CNRS researcher at the Grenoble Electrical Engineering Laboratory (G2Elab). With over 20 years of research experience in various fields of power electronics (semiconductors, 3D packaging, integrated drivers, multicellular converters, etc.), his current work focuses on identifying the conditions for the sustainability of power electronics technology. He is also the CSR representative for his laboratory, and at the national level, he co-leads working groups on more sustainable electronics. More recently, he has become involved in coordinating the Reflection Group of the GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/en/french/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier is a CNRS researcher at the Grenoble Electrical Engineering Laboratory (G2Elab). With over 20 years of research experience in various fields of power electronics (semiconductors, 3D packaging, integrated drivers, multicellular converters, etc.), his current work focuses on identifying the conditions for the sustainability of power electronics technology. He is also the CSR representative for his laboratory, and at the national level, he co-leads working groups on more sustainable electronics. More recently, he has become involved in coordinating the Reflection Group of the GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jean Christophe Crébier</title>
+      <link>https://jdd-eeats.github.io/en/speakers/jean-christophe-cr%C3%A9bier-000-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/speakers/jean-christophe-cr%C3%A9bier-000-02/</guid>
+      <description>&lt;p&gt;Jean-Christophe Crébier is a CNRS researcher at the Grenoble Electrical Engineering Laboratory (G2Elab). With over 20 years of research experience in various fields of power electronics (semiconductors, 3D packaging, integrated drivers, multicellular converters, etc.), his current work focuses on identifying the conditions for the sustainability of power electronics technology. He is also the CSR representative for his laboratory, and at the national level, he co-leads working groups on more sustainable electronics. More recently, he has become involved in coordinating the Reflection Group of the GDR labo1point5.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/en/english/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/en/french/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/en/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>https://jdd-eeats.github.io/en/speakers/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/speakers/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/lunch-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/lunch-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/lunch-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/lunch-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>https://jdd-eeats.github.io/en/sessions/lunch-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/lunch-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PhD Alumni Presentation</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/phd-alumni-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/phd-alumni-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD Alumni Presentation</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/phd-alumni-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/phd-alumni-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD Alumni Presentation</title>
+      <link>https://jdd-eeats.github.io/en/sessions/phd-alumni-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/phd-alumni-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phd Day Conclusion</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/phd-day-conclusion-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/phd-day-conclusion-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phd Day Conclusion</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/phd-day-conclusion-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/phd-day-conclusion-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phd Day Conclusion</title>
+      <link>https://jdd-eeats.github.io/en/sessions/phd-day-conclusion-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/phd-day-conclusion-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PhD Day Presentation</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/phd-day-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/phd-day-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD Day Presentation</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/phd-day-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/phd-day-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD Day Presentation</title>
+      <link>https://jdd-eeats.github.io/en/sessions/phd-day-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/phd-day-presentation-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/en/english/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/en/french/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/en/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Instructions</title>
+      <link>https://jdd-eeats.github.io/en/speakers/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/speakers/poster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Prize Awards</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/poster-prize-awards-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/poster-prize-awards-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Prize Awards</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/poster-prize-awards-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/poster-prize-awards-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Prize Awards</title>
+      <link>https://jdd-eeats.github.io/en/sessions/poster-prize-awards-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/poster-prize-awards-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster Session I</title>
-      <link>/en/sessions/poster-session-i-729574/</link>
+      <link>https://jdd-eeats.github.io/en/english/sessions/poster-session-i-729574/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/poster-session-i-729574/</guid>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>https://jdd-eeats.github.io/en/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/poster-session-i-729574/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster Session II</title>
-      <link>/en/sessions/poster-session-ii-729572/</link>
+      <link>https://jdd-eeats.github.io/en/english/sessions/poster-session-ii-729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/poster-session-ii-729572/</guid>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/poster-session-ii-729572/</guid>
       <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentation Bulle d&#39;Air</title>
-      <link>/en/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <title>Poster Session II</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/poster-session-ii-729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
-      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentation de la journée</title>
-      <link>/en/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <title>Poster Session II</title>
+      <link>https://jdd-eeats.github.io/en/sessions/poster-session-ii-729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
-      <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/en/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentation du Réseau PhD Alumni</title>
-      <link>/en/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <title>Quiz</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
-      <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Remise Prix Poster</title>
-      <link>/en/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <title>Quiz</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quiz</title>
+      <link>https://jdd-eeats.github.io/en/sessions/quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Round Table</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/round-table-729573/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/round-table-729573/</guid>
+      <description>&lt;p&gt;What comes next? Discover the various career paths of individuals who were in your position a few years ago.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Round Table</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/round-table-729573/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/round-table-729573/</guid>
+      <description>&lt;p&gt;What comes next? Discover the various career paths of individuals who were in your position a few years ago.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Round Table</title>
+      <link>https://jdd-eeats.github.io/en/sessions/round-table-729573/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/round-table-729573/</guid>
+      <description>&lt;p&gt;What comes next? Discover the various career paths of individuals who were in your position a few years ago.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/en/english/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sponsors/</guid>
       <description></description>
     </item>
     <item>
       <title>Sponsors &amp; Partners</title>
-      <link>/en/sponsors/</link>
+      <link>https://jdd-eeats.github.io/en/french/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sponsors/</guid>
+      <guid>https://jdd-eeats.github.io/en/french/sponsors/</guid>
       <description></description>
     </item>
     <item>
-      <title>Table ronde</title>
-      <link>/en/sessions/table-ronde-729573/</link>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/en/speakers/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/en/sessions/table-ronde-729573/</guid>
+      <guid>https://jdd-eeats.github.io/en/speakers/sponsors/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Sponsors &amp; Partners</title>
+      <link>https://jdd-eeats.github.io/en/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sponsors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thematic Session II</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/thematic-session-ii-729576/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/thematic-session-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thematic Session II</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/thematic-session-ii-729576/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/thematic-session-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thematic Session II</title>
+      <link>https://jdd-eeats.github.io/en/sessions/thematic-session-ii-729576/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/thematic-session-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://jdd-eeats.github.io/en/english/sessions/welcome-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/english/sessions/welcome-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://jdd-eeats.github.io/en/french/sessions/welcome-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/french/sessions/welcome-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://jdd-eeats.github.io/en/sessions/welcome-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/en/sessions/welcome-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

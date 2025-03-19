@@ -2,38 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Session on </title>
-    <link>/categories/session/</link>
+    <link>https://jdd-eeats.github.io/categories/session/</link>
     <description>Recent content in Session on </description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="/categories/session/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdd-eeats.github.io/categories/session/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conférence Thématique I</title>
-      <link>/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</link>
+      <title>Conférence Thématique II</title>
+      <link>https://jdd-eeats.github.io/english/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/conf%c3%a9rence-th%c3%a9matique-i-729575/</guid>
-      <description>&lt;p&gt;Un exposé sur les enjeux de la durabilité en génie électrique (titre précis et résumé à venir)&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/english/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conférence Thématique II</title>
-      <link>/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</link>
+      <link>https://jdd-eeats.github.io/french/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729575/</guid>
+      <guid>https://jdd-eeats.github.io/french/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
+      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conférence Thématique II</title>
+      <link>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
       <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poster Session I</title>
-      <link>/sessions/poster-session-i-729574/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/poster-session-i-729574/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/poster-session-i-729574/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>https://jdd-eeats.github.io/french/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/poster-session-i-729574/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session I</title>
+      <link>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster Session II</title>
-      <link>/sessions/poster-session-ii-729572/</link>
+      <link>https://jdd-eeats.github.io/english/sessions/poster-session-ii-729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sessions/poster-session-ii-729572/</guid>
+      <guid>https://jdd-eeats.github.io/english/sessions/poster-session-ii-729572/</guid>
       <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poster Session II</title>
+      <link>https://jdd-eeats.github.io/french/sessions/poster-session-ii-729572/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poster Session II</title>
+      <link>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</guid>
+      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
+      <link>https://jdd-eeats.github.io/english/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/english/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
+      <link>https://jdd-eeats.github.io/french/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/french/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
+      <link>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
