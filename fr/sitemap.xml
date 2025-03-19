@@ -195,6 +195,8 @@
                 href="https://jdd-eeats.github.io/sessions/720010/"
                 />
   </url><url>
+    <loc>https://jdd-eeats.github.io/categories/conf%C3%A9rence-th%C3%A9matique/</loc>
+  </url><url>
     <loc>https://jdd-eeats.github.io/english/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1149,18 +1151,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jdd-eeats.github.io/speakers/sergio-vinagrero-000-09/"
-                />
-  </url><url>
-    <loc>https://jdd-eeats.github.io/categories/session/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jdd-eeats.github.io/en/categories/session/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jdd-eeats.github.io/categories/session/"
                 />
   </url><url>
     <loc>https://jdd-eeats.github.io/sessions/</loc>
