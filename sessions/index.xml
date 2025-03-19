@@ -9,101 +9,115 @@
     <atom:link href="https://jdd-eeats.github.io/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accueil</title>
-      <link>https://jdd-eeats.github.io/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <link>https://jdd-eeats.github.io/sessions/720000/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720000/</guid>
       <description>&lt;p&gt;Hello&lt;/p&gt;</description>
     </item>
     <item>
       <title>Buffet</title>
-      <link>https://jdd-eeats.github.io/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/sessions/720006/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720006/</guid>
       <description></description>
     </item>
     <item>
-      <title>Clôture de la JDD</title>
-      <link>https://jdd-eeats.github.io/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <title>Clôture de la JDD 2025</title>
+      <link>https://jdd-eeats.github.io/sessions/720010/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720010/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Conférence Thématique II</title>
-      <link>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</guid>
-      <description>&lt;p&gt;Un exposé sur les défis de l’intégrité scientifique dans la recherche&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moment Récréatif et Prix Quiz</title>
-      <link>https://jdd-eeats.github.io/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/sessions/720008/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720008/</guid>
       <description></description>
     </item>
     <item>
       <title>Pause-café</title>
-      <link>https://jdd-eeats.github.io/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <link>https://jdd-eeats.github.io/sessions/720004/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720004/</guid>
+      <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pause-café</title>
+      <link>https://jdd-eeats.github.io/sessions/720007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/720007/</guid>
       <description>&lt;p&gt;Exposition poster et vote pour le premier meilleur poster&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poster Session I</title>
-      <link>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</link>
+      <link>https://jdd-eeats.github.io/sessions/729574/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</guid>
-      <description></description>
+      <guid>https://jdd-eeats.github.io/sessions/729574/</guid>
+      <description>&lt;p&gt;Des doctorants volontaires présenteront brièvement leurs travaux de thèse devant le public avant de vous inviter à venir échanger autour d&amp;rsquo;une présentation plus détaillée sur un poster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poster Session II</title>
-      <link>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</link>
+      <link>https://jdd-eeats.github.io/sessions/729572/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</guid>
-      <description>&lt;p&gt;Session Poster I&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/sessions/729572/</guid>
+      <description>&lt;p&gt;Des doctorants volontaires présenteront brièvement leurs travaux de thèse devant le public avant de vous inviter à venir échanger autour d&amp;rsquo;une présentation plus détaillée sur un poster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Premiers Pas en Direction d&#39;une Technologie Electronique de Puissance plus Soutenable</title>
-      <link>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</link>
+      <link>https://jdd-eeats.github.io/sessions/729575/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/729575/</guid>
       <description>&lt;p&gt;La présentation retrace l&amp;rsquo;évolution du parcours scientifique de l&amp;rsquo;intervenant face aux enjeux environnementaux et climatiques en lien avec la technologie électronique de puissance. Passage de la déconstruction d&amp;rsquo;un mythe à la recherche de directions scientifiques compatibles avec les enjeux environnementaux et sociétaux menant aux premiers pas dans le domaine de l&amp;rsquo;électronique de puissance plus soutenable. Changements des manières de définir et de conduire l&amp;rsquo;activité de recherche, des points qui seront présentés pour être poursuivis lors d&amp;rsquo;un échange avec les participants.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Présentation Bulle d&#39;Air</title>
-      <link>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <link>https://jdd-eeats.github.io/sessions/720002/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720002/</guid>
       <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Présentation de la journée</title>
-      <link>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <title>Présentation Cabinet de Conseil</title>
+      <link>https://jdd-eeats.github.io/sessions/720005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720005/</guid>
+      <description>&lt;p&gt;Présentation Emploi des Docteurs&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Présentation de la journée</title>
+      <link>https://jdd-eeats.github.io/sessions/720001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/720001/</guid>
       <description>&lt;p&gt;Mot de bienvenue et présentation de la journée&lt;/p&gt;</description>
     </item>
     <item>
       <title>Présentation du Réseau PhD Alumni</title>
-      <link>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</link>
+      <link>https://jdd-eeats.github.io/sessions/720003/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/720003/</guid>
       <description>&lt;p&gt;Présentation du Dispositif d’écoute et d’accompagnement des doctorants Bulle d’Air par Dominique SCHNEIDER, professeur en Biologie de l’évolution l’UGA, chercheur au laboratoire TIMC.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Remise Prix Poster</title>
-      <link>https://jdd-eeats.github.io/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</link>
+      <title>Recherche et Intégrité Scientifique à l’UGA</title>
+      <link>https://jdd-eeats.github.io/sessions/729576/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</guid>
+      <guid>https://jdd-eeats.github.io/sessions/729576/</guid>
+      <description>&lt;p&gt;La loi de programmation de la recherches confie à l’état la politique nationale de l&amp;rsquo;intégrité scientifique (article L211-2 du code de la recherche). Dans ce cadre, les établissements publics, dont les universités et organismes de recherche, offrent les conditions du respect des exigences de l&amp;rsquo;intégrité scientifique et mettent en place les dispositifs nécessaires pour promouvoir les valeurs de l&amp;rsquo;intégrité scientifique. Les travaux de recherche, notamment l&amp;rsquo;ensemble des activités de la recherche publique doivent respecter les exigences de l&amp;rsquo;intégrité scientifique visant à garantir leur caractère honnête et scientifiquement rigoureux et à consolider le lien de confiance avec la société. La présentation commencera par décrire les principaux manquements graves à l’intégrité scientifique susceptibles d’entacher  les activités de recherche (tels que la fabrication, la falsification, le plagiat, la dissimulation de conflits d’intérêt, etc.) avant de passer en revue les mauvaises pratiques concernant la conservation et la gestion des données, et enfin rappeler les méconduites courantes en matière de publications (signature d’une publication sans justification, litiges sur l’ordre des auteurs, autoplagiat, publication dans des revues prédatrices, etc.). Dans un deuxième temps, les intervenants présenteront les dispositifs mis en œuvre par l’UGA, signataire de la Charte Française de Déontologie des Métiers de la Recherche (2015), pour traiter les signalements concernant d’éventuels manquements à l’intégrité scientifique&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remise Prix Meilleur Poster</title>
+      <link>https://jdd-eeats.github.io/sessions/720009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdd-eeats.github.io/sessions/720009/</guid>
       <description></description>
     </item>
     <item>
-      <title>Table Ronde</title>
-      <link>https://jdd-eeats.github.io/sessions/table-ronde-729573/</link>
+      <title>Table Ronde - &#34;Et après la thése?&#34;</title>
+      <link>https://jdd-eeats.github.io/sessions/729573/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdd-eeats.github.io/sessions/table-ronde-729573/</guid>
-      <description>&lt;p&gt;Et après la thèse? Découvrez les divers parcours d&amp;rsquo;insertion professionnelle des intervenants qui étaient à votre place il y&amp;rsquo;a quelques années.&lt;/p&gt;</description>
+      <guid>https://jdd-eeats.github.io/sessions/729573/</guid>
+      <description>&lt;p&gt;Et après la thèse? Des docteurs issus de EEATS ou d&amp;rsquo;autres écoles doctorales seront présents pour témoigner de l&amp;rsquo;apport du doctorat dans leur vie professionnelle.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

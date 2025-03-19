@@ -66,23 +66,83 @@
                 href="https://jdd-eeats.github.io/speakers/about/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720000/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720000/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720000/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720000/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720000/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720000/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/accueil-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720000/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720000/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720000/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720006/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720006/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720006/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720006/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720006/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720006/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/buffet-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720006/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720006/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720006/"
+                />
   </url><url>
     <loc>https://jdd-eeats.github.io/categories/</loc>
     <xhtml:link
@@ -96,23 +156,44 @@
                 href="https://jdd-eeats.github.io/categories/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720010/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720010/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720010/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720010/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720010/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720010/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/cl%c3%b4ture-de-la-jdd-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720010/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/conf%c3%a9rence-th%c3%a9matique-ii-729576/</loc>
-    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720010/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720010/"
+                />
   </url><url>
     <loc>https://jdd-eeats.github.io/english/</loc>
     <xhtml:link
@@ -126,16 +207,82 @@
                 href="https://jdd-eeats.github.io/english/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/categories/flash/</loc>
+    <loc>https://jdd-eeats.github.io/english/speakers/florentin-salomez-000-10/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/categories/flash/"
+                href="https://jdd-eeats.github.io/en/english/speakers/florentin-salomez-000-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/categories/flash/"
+                href="https://jdd-eeats.github.io/english/speakers/florentin-salomez-000-10/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/florentin-salomez-000-10/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/florentin-salomez-000-10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/florentin-salomez-000-10/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/florentin-salomez-000-10/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/florentin-salomez-000-10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/florentin-salomez-000-10/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/fran%C3%A7ois-paysant-000-04/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/fran%C3%A7ois-paysant-000-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/fran%C3%A7ois-paysant-000-04/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/fran%C3%A7ois-paysant-000-04/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/fran%C3%A7ois-paysant-000-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/fran%C3%A7ois-paysant-000-04/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/fran%C3%A7ois-paysant-000-04/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/fran%C3%A7ois-paysant-000-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/fran%C3%A7ois-paysant-000-04/"
                 />
   </url><url>
     <loc>https://jdd-eeats.github.io/french/</loc>
@@ -228,6 +375,45 @@
                 href="https://jdd-eeats.github.io/speakers/jean-christophe-cr%C3%A9bier-000-02/"
                 />
   </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/kevin-parisot-000-12/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/kevin-parisot-000-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/kevin-parisot-000-12/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/kevin-parisot-000-12/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/kevin-parisot-000-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/kevin-parisot-000-12/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/kevin-parisot-000-12/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/kevin-parisot-000-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/kevin-parisot-000-12/"
+                />
+  </url><url>
     <loc>https://jdd-eeats.github.io/english/location/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -280,35 +466,209 @@
                 href="https://jdd-eeats.github.io/speakers/location/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/english/speakers/martial-deffort-000-11/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/moment-r%c3%a9cr%c3%a9atif-et-prix-quiz-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/pause-caf%c3%a9-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://jdd-eeats.github.io/categories/poster/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/categories/poster/"
+                href="https://jdd-eeats.github.io/en/english/speakers/martial-deffort-000-11/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/categories/poster/"
+                href="https://jdd-eeats.github.io/english/speakers/martial-deffort-000-11/"
                 />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/martial-deffort-000-11/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/martial-deffort-000-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/martial-deffort-000-11/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/martial-deffort-000-11/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/martial-deffort-000-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/martial-deffort-000-11/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/mathilde-billaud-000-06/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/mathilde-billaud-000-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/mathilde-billaud-000-06/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/mathilde-billaud-000-06/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/mathilde-billaud-000-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/mathilde-billaud-000-06/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/mathilde-billaud-000-06/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/mathilde-billaud-000-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/mathilde-billaud-000-06/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/sessions/720008/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720008/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720008/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/sessions/720008/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720008/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720008/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/sessions/720008/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720008/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720008/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/sessions/720004/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720004/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720004/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/sessions/720007/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720007/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720007/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/sessions/720004/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720004/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720004/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/sessions/720007/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720007/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720007/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/sessions/720004/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720004/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720004/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/sessions/720007/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720007/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720007/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/philippe-ferrari-000-13/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/philippe-ferrari-000-13/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/philippe-ferrari-000-13/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://jdd-eeats.github.io/english/poster/</loc>
     <priority>0</priority>
@@ -362,128 +722,434 @@
                 href="https://jdd-eeats.github.io/speakers/poster/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/poster-session-i-729574/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/729574/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/english/sessions/poster-session-i-729574/"
+                href="https://jdd-eeats.github.io/en/english/sessions/729574/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/english/sessions/poster-session-i-729574/"
+                href="https://jdd-eeats.github.io/english/sessions/729574/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/poster-session-i-729574/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/729574/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/french/sessions/poster-session-i-729574/"
+                href="https://jdd-eeats.github.io/en/french/sessions/729574/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/french/sessions/poster-session-i-729574/"
+                href="https://jdd-eeats.github.io/french/sessions/729574/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/poster-session-i-729574/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/729574/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/sessions/poster-session-i-729574/"
+                href="https://jdd-eeats.github.io/en/sessions/729574/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/sessions/poster-session-i-729574/"
+                href="https://jdd-eeats.github.io/sessions/729574/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/poster-session-ii-729572/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/729572/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/english/sessions/poster-session-ii-729572/"
+                href="https://jdd-eeats.github.io/en/english/sessions/729572/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/english/sessions/poster-session-ii-729572/"
+                href="https://jdd-eeats.github.io/english/sessions/729572/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/poster-session-ii-729572/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/729572/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/french/sessions/poster-session-ii-729572/"
+                href="https://jdd-eeats.github.io/en/french/sessions/729572/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/french/sessions/poster-session-ii-729572/"
+                href="https://jdd-eeats.github.io/french/sessions/729572/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/poster-session-ii-729572/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/729572/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jdd-eeats.github.io/en/sessions/poster-session-ii-729572/"
+                href="https://jdd-eeats.github.io/en/sessions/729572/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jdd-eeats.github.io/sessions/poster-session-ii-729572/"
+                href="https://jdd-eeats.github.io/sessions/729572/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/729575/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/729575/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/729575/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/729575/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/729575/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/729575/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/premiers-pas-en-direction-dune-technologie-electronique-de-puissance-plus-soutenable-729575/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/729575/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/729575/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/729575/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720002/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720002/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720002/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720002/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720002/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720002/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-bulle-dair-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720002/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720002/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720002/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720005/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720005/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720005/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720005/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720005/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720005/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-de-la-journ%c3%a9e-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720005/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720005/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720005/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720001/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720001/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720001/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720001/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720001/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720001/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/pr%c3%a9sentation-du-r%c3%a9seau-phd-alumni-b99eb568-4f2c-4fd9-8ec6-a1326b961dfc/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720001/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720001/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720001/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/720003/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720003/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720003/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/720003/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720003/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720003/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/remise-prix-poster-3447531d-f78e-4ca0-8b80-22368909baa4/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/720003/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720003/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720003/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/sessions/729576/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/729576/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/729576/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/sessions/729576/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/729576/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/729576/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/sessions/729576/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/729576/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/729576/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/sessions/720009/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720009/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720009/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/sessions/720009/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720009/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720009/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/sessions/720009/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720009/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720009/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/sara-el-bouch-000-08/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/sara-el-bouch-000-08/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/sara-el-bouch-000-08/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/sara-el-bouch-000-08/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/sara-el-bouch-000-08/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/sara-el-bouch-000-08/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/sara-el-bouch-000-08/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/sara-el-bouch-000-08/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/sara-el-bouch-000-08/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/sergio-vinagrero-000-09/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/sergio-vinagrero-000-09/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/sergio-vinagrero-000-09/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/sergio-vinagrero-000-09/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/sergio-vinagrero-000-09/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/sergio-vinagrero-000-09/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/sergio-vinagrero-000-09/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/sergio-vinagrero-000-09/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/sergio-vinagrero-000-09/"
+                />
   </url><url>
     <loc>https://jdd-eeats.github.io/categories/session/</loc>
     <xhtml:link
@@ -507,6 +1173,45 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jdd-eeats.github.io/sessions/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/sophie-panel-000-05/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/sophie-panel-000-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/sophie-panel-000-05/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/sophie-panel-000-05/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/sophie-panel-000-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/sophie-panel-000-05/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/sophie-panel-000-05/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/sophie-panel-000-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/sophie-panel-000-05/"
                 />
   </url><url>
     <loc>https://jdd-eeats.github.io/speakers/</loc>
@@ -573,14 +1278,44 @@
                 href="https://jdd-eeats.github.io/sponsors/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/table-ronde-729573/</loc>
+    <loc>https://jdd-eeats.github.io/english/sessions/729573/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/729573/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/729573/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/table-ronde-729573/</loc>
+    <loc>https://jdd-eeats.github.io/french/sessions/729573/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/729573/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/729573/"
+                />
   </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/table-ronde-729573/</loc>
+    <loc>https://jdd-eeats.github.io/sessions/729573/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/729573/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/729573/"
+                />
   </url><url>
     <loc>https://jdd-eeats.github.io/tags/</loc>
     <xhtml:link
@@ -592,6 +1327,45 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jdd-eeats.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/thomas-dalgaty-000-07/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/thomas-dalgaty-000-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/thomas-dalgaty-000-07/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/thomas-dalgaty-000-07/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/thomas-dalgaty-000-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/thomas-dalgaty-000-07/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/thomas-dalgaty-000-07/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/thomas-dalgaty-000-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/thomas-dalgaty-000-07/"
                 />
   </url>
 </urlset>
