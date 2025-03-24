@@ -832,45 +832,6 @@
                 href="https://jdd-eeats.github.io/sessions/729575/"
                 />
   </url><url>
-    <loc>https://jdd-eeats.github.io/english/sessions/720002/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jdd-eeats.github.io/en/english/sessions/720002/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jdd-eeats.github.io/english/sessions/720002/"
-                />
-  </url><url>
-    <loc>https://jdd-eeats.github.io/french/sessions/720002/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jdd-eeats.github.io/en/french/sessions/720002/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jdd-eeats.github.io/french/sessions/720002/"
-                />
-  </url><url>
-    <loc>https://jdd-eeats.github.io/sessions/720002/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jdd-eeats.github.io/en/sessions/720002/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jdd-eeats.github.io/sessions/720002/"
-                />
-  </url><url>
     <loc>https://jdd-eeats.github.io/english/sessions/720005/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -908,6 +869,45 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jdd-eeats.github.io/sessions/720005/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/sessions/720002/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/sessions/720002/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/sessions/720002/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/sessions/720002/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/sessions/720002/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/sessions/720002/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/sessions/720002/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/sessions/720002/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/sessions/720002/"
                 />
   </url><url>
     <loc>https://jdd-eeats.github.io/english/sessions/720001/</loc>
@@ -1154,6 +1154,45 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jdd-eeats.github.io/sessions/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/english/speakers/sophie-bouccara-000-13/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/english/speakers/sophie-bouccara-000-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/english/speakers/sophie-bouccara-000-13/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/french/speakers/sophie-bouccara-000-13/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/french/speakers/sophie-bouccara-000-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/french/speakers/sophie-bouccara-000-13/"
+                />
+  </url><url>
+    <loc>https://jdd-eeats.github.io/speakers/sophie-bouccara-000-13/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jdd-eeats.github.io/en/speakers/sophie-bouccara-000-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jdd-eeats.github.io/speakers/sophie-bouccara-000-13/"
                 />
   </url><url>
     <loc>https://jdd-eeats.github.io/english/speakers/sophie-panel-000-05/</loc>
